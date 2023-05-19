@@ -1,0 +1,10 @@
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe.config
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\bin\Debug\QuizSystem.exe
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\bin\Debug\QuizSystem.pdb
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csproj.AssemblyReference.cache
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\obj\Debug\QuizSystem.Form1.resources
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\obj\Debug\QuizSystem.Properties.Resources.resources
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csproj.GenerateResource.cache
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\obj\Debug\QuizSystem.csproj.CoreCompileInputs.cache
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\obj\Debug\QuizSystem.exe
+C:\Users\IT EXPERT\source\repos\QuizSystem\QuizSystem\obj\Debug\QuizSystem.pdb

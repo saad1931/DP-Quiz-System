@@ -1,0 +1,7 @@
+Singleton Pattern: The Form1 class implements a singleton pattern by providing a private constructor and a static Instance property. It ensures that only one instance of Form1 can be created throughout the application.
+
+Factory Pattern: The QuestionFactory class represents a factory pattern. It encapsulates the creation logic of Question objects and provides a static method (CreateQuestion) to create instances of Question with different parameters.
+
+Strategy Pattern: The ICheckingStrategy interface defines the contract for different checking strategies, and the DefaultCheckingStrategy and CustomCheckingStrategy classes are concrete implementations of this interface. It allows the checkingStrategy field in Form1 to be dynamically assigned different strategies at runtime.
+
+Observer Pattern: The QuizScoreObserver class implements the observer pattern. It maintains a list of score observers (Action<int> delegates) and provides methods to subscribe, unsubscribe, and notify observers when the score changes. The scoreObserver field in Form1 is an instance of QuizScoreObserver that observes and updates the score.
